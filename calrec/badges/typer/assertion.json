@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/typer/assertion.json",
+  "id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/calrec/badges/typer/assertion.json",
   "recipient": {
     "type": "email",
     "hashed": false,
