@@ -12,7 +12,7 @@
  "issuer": "https://ultanmolloy-lgtm.github.io/calrec-certifications/calrec/badges/issuer.json"
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Issuer",
-    "id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/issuer.json",
+     "id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/calrec/badges/typer/badgeclass.json",
     "name": "Calrec",
     "url": "https://calrec.com",
     "email": "info@calrec.com"
