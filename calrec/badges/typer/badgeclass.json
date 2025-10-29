@@ -1,10 +1,10 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/typer/badgeclass.json",
+  "id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/calrec/badges/typer/badgeclass.json",
   "name": "Calrec - Type R IO & Surface",
   "description": "Awarded to Ultan Molloy for successfully completing the Calrec Type R IO & Surface training and demonstrating competence using Calrec Type R systems.",
-  "image": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/typer/badge.png",
+  "image": "https://ultanmolloy-lgtm.github.io/calrec-certifications/calrec/badges/typer/badge.png",
   "criteria": {
     "id": "https://docs.google.com/document/d/REPLACE_WITH_PUBLIC_DOC_ID/view?usp=sharing",
     "narrative": "Complete the Calrec Type R IO & Surface training and assessment."
