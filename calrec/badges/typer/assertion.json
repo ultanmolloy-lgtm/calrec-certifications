@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/typer/assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "ultanmolloy@me.com"
+  },
+  "issuedOn": "2025-10-29T00:00:00Z",
+  "badge": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/typer/badgeclass.json",
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/typer/assertion.json"
+  }
+}
