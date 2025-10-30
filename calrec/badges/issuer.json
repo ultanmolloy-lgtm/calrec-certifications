@@ -1,9 +1,0 @@
-{
-  "@context": "https://w3id.org/openbadges/v2",
-  "type": "Issuer",
-  "id": ""id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/calrec/badges/issuer.json"
-",
-  "name": "Calrec",
-  "url": "https://calrec.com",
-  "email": "info@calrec.com"
-}
