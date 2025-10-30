@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calrec - Type R IO & Surface Badge</title>
+    <style>
+      body { 
+        font-family: system-ui, sans-serif; 
+        background:#0b1220; 
+        color:#e9eef7; 
+        text-align:center; 
+        padding:2rem; 
+      }
+      h1 { margin-bottom:0.25rem; }
+      p.lead { opacity:.85; margin-top:0; }
+      img { 
+        max-width: 320px; 
+        margin-top:1.25rem; 
+        border-radius:12px; 
+        box-shadow:0 8px 24px rgba(0,0,0,.35);
+      }
+      .links { margin-top: 2rem; }
+      a { 
+        display:inline-block; 
+        margin:.5rem; 
+        padding:.65rem 1rem; 
+        text-decoration:none; 
+        background:#0ea5e9; 
+        color:#001627; 
+        border-radius:8px; 
+        font-weight:600; 
+      }
+      a:hover { background:#38bdf8; }
+      footer { margin-top:2.5rem; font-size:.9rem; opacity:.75; }
+    </style>
+  </head>
+  <body>
+    <h1>Calrec - Type R IO & Surface</h1>
+    <p class="lead">Issued to <strong>Ultan Molloy</strong></p>
+
+    <img src="badge.png" alt="Calrec Type R Badge" />
+
+    <div class="links">
+      <a href="badge.png" download>⬇️ Download Badge</a>
+      <a href="assertion.json" target="_blank">📄 View Assertion</a>
+      <a href="badgeclass.json" target="_blank">📜 View BadgeClass</a>
+      <a id="verify-btn" href="#" target="_blank">✅ Verify Badge</a>
+    </div>
+
+    <footer>
+      Hosted via GitHub Pages · © Ultan Molloy
+    </footer>
+
+    <script>
+      const assertionUrl = "https://ultanmolloy-lgtm.github.io/calrec-certifications/calrec/badges/typer/assertion.json";
+      // Temporary fallback while IMS Global verifier is down
+      const verifierBase = "https://badgecheck.io/?url=";
+      document.getElementById("verify-btn").href = verifierBase + encodeURIComponent(assertionUrl);
+    </script>
+  </body>
+</html>
