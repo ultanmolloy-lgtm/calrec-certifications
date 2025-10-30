@@ -2,11 +2,11 @@
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
   "id": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/typer/badgeclass.json",
-  "name": "Calrec - Type R IO & Surface",
+  "name": "Calrec - Network Design",
   "description": "Awarded to Ultan Molloy for successfully completing the Calrec Type R IO & Surface training and demonstrating competence using Calrec Type R systems.",
   "image": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/typer/badge.png",
   "criteria": {
-    "id": "https://docs.google.com/document/d/1fVj6m6qxtfmBiagmTK4t9xTHteM7tQSfNtSPl3vqJG0/edit?usp=sharing",
+    "id": https://docs.google.com/document/d/1fVj6m6qxtfmBiagmTK4t9xTHteM7tQSfNtSPl3vqJG0/edit?usp=sharing
     "narrative": "Complete the Calrec Type Network Design training and assessment."
   },
  "issuer": "https://ultanmolloy-lgtm.github.io/calrec-certifications/badges/issuer.json"
